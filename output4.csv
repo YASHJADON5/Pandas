@@ -1,0 +1,77 @@
+region,region
+Australia and New Zealand,"<StringArray>
+['Australia and New Zealand']
+Length: 1, dtype: str"
+Caribbean,"<StringArray>
+['Caribbean']
+Length: 1, dtype: str"
+Central America,"<StringArray>
+['Central America']
+Length: 1, dtype: str"
+Central Asia,"<StringArray>
+['Central Asia']
+Length: 1, dtype: str"
+Eastern Africa,"<StringArray>
+['Eastern Africa']
+Length: 1, dtype: str"
+Eastern Asia,"<StringArray>
+['Eastern Asia']
+Length: 1, dtype: str"
+Eastern Europe,"<StringArray>
+['Eastern Europe']
+Length: 1, dtype: str"
+Melanesia,"<StringArray>
+['Melanesia']
+Length: 1, dtype: str"
+Micronesia,"<StringArray>
+['Micronesia']
+Length: 1, dtype: str"
+Middle Africa,"<StringArray>
+['Middle Africa']
+Length: 1, dtype: str"
+Northern Africa,"<StringArray>
+['Northern Africa']
+Length: 1, dtype: str"
+Northern America,"<StringArray>
+['Northern America']
+Length: 1, dtype: str"
+Northern Europe,"<StringArray>
+['Northern Europe']
+Length: 1, dtype: str"
+Polynesia,"<StringArray>
+['Polynesia']
+Length: 1, dtype: str"
+South America,"<StringArray>
+['South America']
+Length: 1, dtype: str"
+South-Eastern Asia,"<StringArray>
+['South-Eastern Asia']
+Length: 1, dtype: str"
+Southern Africa,"<StringArray>
+['Southern Africa']
+Length: 1, dtype: str"
+Southern Asia,"<StringArray>
+['Southern Asia']
+Length: 1, dtype: str"
+Southern Europe,"<StringArray>
+['Southern Europe']
+Length: 1, dtype: str"
+Western Africa,"<StringArray>
+['Western Africa']
+Length: 1, dtype: str"
+Western Asia,"<StringArray>
+['Western Asia']
+Length: 1, dtype: str"
+Western Europe,"<StringArray>
+['Western Europe']
+Length: 1, dtype: str"
+
+
+
+
+
+
+
+
+
+10
